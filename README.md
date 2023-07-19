@@ -19,3 +19,5 @@ To start, run the Command:
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+![plan](https://github.com/nikhil-x24/Plan-With-Me/assets/94430005/a0c5354a-8b65-4361-aea0-b5d36aa2230b)
